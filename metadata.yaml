@@ -1,0 +1,31 @@
+_repo: Woordenboek-der-Grieksche-en-Romeinsche-oudheid_34955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Boer, Zacharias Cohen de
+    alias: De Boer, Zacharias Cohen
+    gutenberg_agent_id: '37353'
+    url: http://www.gutenberg.org/2009/agents/37353
+  - agent_name: Schlimmer, Johan George
+    alias: Schlimmer, Johannes George
+    birthdate: 1833
+    deathdate: 1901
+    gutenberg_agent_id: '37352'
+    url: http://www.gutenberg.org/2009/agents/37352
+description: ''
+gutenberg_issued: '2011-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34955'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DE'
+- !lcsh 'Classical dictionaries -- Dutch'
+title: Woordenboek der Grieksche en Romeinsche oudheid
+url: http://www.gutenberg.org/ebooks/34955
